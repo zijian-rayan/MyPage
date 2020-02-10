@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">MyPage</string>
+<string name="action_settings">Settings</string>
+<string name="web_url">http://www.edt.universite-paris-saclay.fr/</string>
+</resources>
